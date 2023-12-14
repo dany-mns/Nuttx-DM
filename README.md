@@ -10,3 +10,7 @@
 
 ### Compile and load:
 - https://ocw.cs.pub.ro/courses/si/laboratoare/01#compilarea_si_incarcarea_pe_placa
+
+
+#### Errors:
+esptool.py not found -> append bash`export PATH="$HOME/.local/bin:$PATH"` in ~/.bashrc
