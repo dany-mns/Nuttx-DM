@@ -13,4 +13,4 @@
 
 
 #### Errors:
-esptool.py not found -> append bash`export PATH="$HOME/.local/bin:$PATH"` in ~/.bashrc
+esptool.py not found -> append `export PATH="$HOME/.local/bin:$PATH"` in ~/.bashrc
