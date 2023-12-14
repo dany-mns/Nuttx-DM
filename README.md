@@ -14,3 +14,7 @@
 
 #### Errors:
 esptool.py not found -> append `export PATH="$HOME/.local/bin:$PATH"` in ~/.bashrc
+
+Serial port /dev/ttyUSB0
+/dev/ttyUSB0 failed to connect: Could not open /dev/ttyUSB0, the port doesn't exist
+-> sudo chmod 666 /dev/ttyUSB0
